@@ -1,0 +1,44 @@
+.ms-container{
+    background-color: black;
+    height: 200vh;
+    width: 100vw;
+    background-size: cover;
+}
+.ms-text{
+    margin: 12px;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+    color: white;
+}
+.ms-image{
+    height: 30vh;
+    border-radius: 12px;  
+    margin: 12px;
+}
+.ms-txt2{
+    font-size: 22px;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-style: italic;
+    font-variant:small-caps;
+    color: white;
+    margin: 12px;
+}
+.img-2{
+    height: 50vh;
+    width: 90vw;
+    background-size: cover;
+    margin: 20px;
+}
+.ms-image2{
+    height: 30vh;
+    border-radius: 12px;  
+    margin: 12px;
+}
+.ms-img3{
+    width: 30vw;
+    height: 20vh;
+}
